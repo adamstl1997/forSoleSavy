@@ -1,5 +1,5 @@
 # forSoleSavy
-Showcasing some select files from a recent project I'm working on to SoleSavy as an example of my coding skillset.
+Showcasing some select files from a recent project I'm working on to SoleSavy as an example of my coding skillset. I am using the React Native framework, Javascript coding language, and Firebase platform for my database. Some key skills shown here include networking/data fetching, work with databases, local storage usage, react native concepts, and javascipt concepts. 
 
 High level explanation of these files:
 
